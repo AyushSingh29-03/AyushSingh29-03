@@ -1,6 +1,8 @@
 # 💫 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Ayush+Singh+B.Tech+CE+(AI)+Student;Building+AI+%26+Software+Projects;Exploring+Generative+AI)](https://git.io/typing-svg)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CE%20(AI)%20Student&descAlignY=55&descSize=20)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+AI+%26+Software+Projects;Exploring+Generative+AI;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 I'm **Ayush Singh**, a B.Tech Computer Engineering (AI) student focused on **Software Development, AI, and Data Analytics**.
 
@@ -75,18 +77,3 @@ A regex engine built from scratch to understand pattern matching internals — n
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**AyushSingh29-03/AyushSingh29-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
