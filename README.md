@@ -14,6 +14,10 @@ I'm **Ayush Singh**, a B.Tech Computer Engineering (AI) student focused on **Sof
 
 ## 🚀 Featured Projects
 
+### ✋ [Rock-Paper-Scissors vs AI](#)
+A real-time Rock-Paper-Scissors game where you play against the computer using hand gestures — no keyboard or mouse needed. Uses computer vision to detect your hand sign live from the webcam feed and decides the winner instantly.
+`Python` `OpenCV` `MediaPipe`
+
 ### 🔎 [FindIt — Ganpat University Lost & Found](#)
 A campus Lost & Found platform built for students to report and search for lost items.
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
@@ -30,9 +34,6 @@ A browser-based game with an unbeatable AI opponent powered by the Minimax algor
 A regex engine built from scratch to understand pattern matching internals — no built-in regex libraries used.
 `Java`
 
-> *(Replace the `#` links above with your repo URLs once each project is pushed/deployed.)*
-
----
 
 ## 🔨 Currently Working On
 
