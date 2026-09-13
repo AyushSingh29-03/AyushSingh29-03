@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center"><img src="./assets/section-profile.svg" /></div>
+<div align="center"><img src="./assets.svg/section-profile.svg" /></div>
 <br>
 
 I'm **Ayush Singh** — a B.Tech Computer Engineering (AI) student focused on **Software Development, AI, and Data Analytics**.
@@ -16,10 +16,10 @@ I'm **Ayush Singh** — a B.Tech Computer Engineering (AI) student focused on **
 Currently building projects, exploring emerging technologies, and continuously improving my development skills.
 
 <br>
-<img src="./assets/divider.svg" width="100%" />
+<img src="./assets.svg/divider.svg" width="100%" />
 <br>
 
-<div align="center"><img src="./assets/section-projects.svg" /></div>
+<div align="center"><img src="./assets.svg/section-projects.svg" /></div>
 <br>
 
 <table>
@@ -75,32 +75,32 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 </table>
 
 <br>
-<img src="./assets/divider.svg" width="100%" />
+<img src="./assets.svg/divider.svg" width="100%" />
 <br>
 
 <div align="center"><img src="./assets/section-training.svg" /></div>
 <br>
 
 <div align="center">
-<img src="./assets/training-panel.svg" width="100%" />
+<img src="./assets.svg/training-panel.svg" width="100%" />
 </div>
 
 <br>
-<img src="./assets/divider.svg" width="100%" />
+<img src="./assets.svg/divider.svg" width="100%" />
 <br>
 
-<div align="center"><img src="./assets/section-skills.svg" /></div>
+<div align="center"><img src="./assets.svg/section-skills.svg" /></div>
 <br>
 
 <div align="center">
-<img src="./assets/skills-panel.svg" width="100%" />
+<img src="./assets.svg/skills-panel.svg" width="100%" />
 </div>
 
 <br>
-<img src="./assets/divider.svg" width="100%" />
+<img src="./assets.svg/divider.svg" width="100%" />
 <br>
 
-<div align="center"><img src="./assets/section-stats.svg" /></div>
+<div align="center"><img src="./assets.svg/section-stats.svg" /></div>
 <br>
 
 <div align="center">
@@ -113,10 +113,10 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 </div>
 
 <br>
-<img src="./assets/divider.svg" width="100%" />
+<img src="./assets.svg/divider.svg" width="100%" />
 <br>
 
-<div align="center"><img src="./assets/section-connect.svg" /></div>
+<div align="center"><img src="./assets.svg/section-connect.svg" /></div>
 <br>
 
 <div align="center">
@@ -128,6 +128,6 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 
 <br>
 
-<img src="./assets/footer.svg" width="100%" />
+<img src="./assets.svg/footer.svg" width="100%" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
