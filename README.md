@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" />
+<img src="./assets.svg/banner.svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=8B7FD6&center=true&vCenter=true&width=560&lines=Building+AI+%26+Software+Projects;Exploring+Generative+AI;Always+Learning+Something+New" />
 
@@ -78,7 +78,7 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 <img src="./assets.svg/divider.svg" width="100%" />
 <br>
 
-<div align="center"><img src="./assets/section-training.svg" /></div>
+<div align="center"><img src="./assets.svg/section-training.svg" /></div>
 <br>
 
 <div align="center">
