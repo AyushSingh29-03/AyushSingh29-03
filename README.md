@@ -1,80 +1,133 @@
-# 💫 About Me
+<div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CE%20(AI)%20Student&descAlignY=55&descSize=20)
+<img src="./assets/banner.svg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+AI+%26+Software+Projects;Exploring+Generative+AI;Always+Learning+Something+New)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=8B7FD6&center=true&vCenter=true&width=560&lines=Building+AI+%26+Software+Projects;Exploring+Generative+AI;Always+Learning+Something+New" />
 
-I'm **Ayush Singh**, a B.Tech Computer Engineering (AI) student focused on **Software Development, AI, and Data Analytics**.
+</div>
 
-🧠 **Core:** DSA, OOP, DBMS, Problem Solving & Software Development
-🤖 **AI:** Prompt Engineering, Generative AI, AI/ML Fundamentals
-🚀 **Focus:** Building projects, exploring emerging technologies, and continuously improving my development skills.
+<br>
 
----
+<div align="center"><img src="./assets/section-profile.svg" /></div>
+<br>
 
-## 🚀 Featured Projects
+I'm **Ayush Singh** — a B.Tech Computer Engineering (AI) student focused on **Software Development, AI, and Data Analytics**.
 
-### ✋ [Rock-Paper-Scissors vs AI](#)
-A real-time Rock-Paper-Scissors game where you play against the computer using hand gestures — no keyboard or mouse needed. Uses computer vision to detect your hand sign live from the webcam feed and decides the winner instantly.
+Currently building projects, exploring emerging technologies, and continuously improving my development skills.
+
+<br>
+<img src="./assets/divider.svg" width="100%" />
+<br>
+
+<div align="center"><img src="./assets/section-projects.svg" /></div>
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✋ Rock-Paper-Scissors vs AI
+Real-time hand-gesture RPS — no keyboard, no mouse. Detects your hand sign live from webcam and decides the winner instantly.
+
 `Python` `OpenCV` `MediaPipe`
 
-### 🔎 [FindIt — Ganpat University Lost & Found](#)
-A campus Lost & Found platform built for students to report and search for lost items.
+</td>
+<td width="50%" valign="top">
+
+### 🔎 FindIt — Lost & Found
+Campus Lost & Found platform for Ganpat University students to report and search for lost items.
+
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### 🧠 [Conversation Memory Manager](#)
-A CLI tool exploring multiple LLM memory strategies — full history, sliding window, and summarization — with token-cost tracking. SQLite-backed persistence, with a Flask/Streamlit web UI planned.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Conversation Memory Manager
+CLI tool exploring LLM memory strategies — full history, sliding window, summarization — with token-cost tracking. SQLite-backed, web UI planned.
+
 `Python` `SQLite`
 
-### 🎮 [Minimax Game AI](#)
-A browser-based game with an unbeatable AI opponent powered by the Minimax algorithm — built to visualize decision-tree search without a GUI library.
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Minimax Game AI
+Browser-based game with an unbeatable AI opponent powered by the Minimax algorithm — visualizes decision-tree search, no GUI library.
+
 `JavaScript` `HTML` `CSS`
 
-### 🔤 [Mini Regex Engine (Build Your Own)](#)
-A regex engine built from scratch to understand pattern matching internals — no built-in regex libraries used.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔤 Mini Regex Engine
+Regex engine built from scratch — concatenation, alternation, and Kleene star — no built-in regex libraries.
+
 `Java`
 
+[**View Repo →**](https://github.com/AyushSingh29-03/regex-engine-java)
 
-## 🔨 Currently Working On
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
-- **Laptop Health Auto-Monitor** — planned, Python
-- **Email Sort and Responder** — planned, Python (Gmail OAuth)
-- **Internship/Job Alert Bot** — planned
+<br>
+<img src="./assets/divider.svg" width="100%" />
+<br>
 
----
+<div align="center"><img src="./assets/section-training.svg" /></div>
+<br>
 
-## 💻 Languages & Tools
+<div align="center">
+<img src="./assets/training-panel.svg" width="100%" />
+</div>
 
-**Languages:** C, Python, Java, PHP, HTML, CSS, JavaScript, SQL
-**Tools & Platforms:** Git, GitHub, VS Code, MySQL, Oracle, Docker, Jupyter Notebook, Google Colab, Figma, Canva, CapCut
+<br>
+<img src="./assets/divider.svg" width="100%" />
+<br>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<div align="center"><img src="./assets/section-skills.svg" /></div>
+<br>
 
----
+<div align="center">
+<img src="./assets/skills-panel.svg" width="100%" />
+</div>
 
-## 📊 GitHub Stats
+<br>
+<img src="./assets/divider.svg" width="100%" />
+<br>
 
-![](https://github-readme-stats.shion.dev/api?username=AyushSingh29-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=AyushSingh29-03&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyushSingh29-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"><img src="./assets/section-stats.svg" /></div>
+<br>
 
----
+<div align="center">
 
-## 🌐 Connect
+<img src="https://github-readme-stats.shion.dev/api?username=AyushSingh29-03&theme=default&hide_border=true&bg_color=00000000&title_color=8B7FD6&icon_color=7f9fe0&text_color=5b5b82" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushSingh29-03&theme=default&hide_border=true&bg_color=00000000&title_color=8B7FD6&text_color=5b5b82&layout=compact" height="165" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-42140a39a)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.official09@gmail.com)
+<img src="https://streak-stats.demolab.com/?user=AyushSingh29-03&theme=default&hide_border=true&background=00000000&ring=8B7FD6&fire=E2A9D8&currStreakLabel=8B7FD6&sideLabels=5b5b82&currStreakNum=3b3b58&sideNums=3b3b58" />
 
----
+</div>
+
+<br>
+<img src="./assets/divider.svg" width="100%" />
+<br>
+
+<div align="center"><img src="./assets/section-connect.svg" /></div>
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayush-singh-42140a39a"><img src="https://img.shields.io/badge/LinkedIn-8B7FD6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ayush.official09@gmail.com"><img src="https://img.shields.io/badge/Email-E2A9D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
