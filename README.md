@@ -8,19 +8,15 @@
 
 <br>
 
-<div align="center"><img src="./assets.svg/section-profile.svg" /></div>
-<br>
+## Profile
 
 I'm **Ayush Singh** — a B.Tech Computer Engineering (AI) student focused on **Software Development, AI, and Data Analytics**.
 
 Currently building projects, exploring emerging technologies, and continuously improving my development skills.
 
-<br>
-<img src="./assets.svg/divider.svg" width="100%" />
-<br>
+---
 
-<div align="center"><img src="./assets.svg/section-projects.svg" /></div>
-<br>
+## Projects
 
 <table>
 <tr>
@@ -74,34 +70,25 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 </tr>
 </table>
 
-<br>
-<img src="./assets.svg/divider.svg" width="100%" />
-<br>
+---
 
-<div align="center"><img src="./assets.svg/section-training.svg" /></div>
-<br>
+## Training
 
 <div align="center">
 <img src="./assets.svg/training-panel.svg" width="100%" />
 </div>
 
-<br>
-<img src="./assets.svg/divider.svg" width="100%" />
-<br>
+---
 
-<div align="center"><img src="./assets.svg/section-skills.svg" /></div>
-<br>
+## Skills
 
 <div align="center">
 <img src="./assets.svg/skills-panel.svg" width="100%" />
 </div>
 
-<br>
-<img src="./assets.svg/divider.svg" width="100%" />
-<br>
+---
 
-<div align="center"><img src="./assets.svg/section-stats.svg" /></div>
-<br>
+## Stats
 
 <div align="center">
 
@@ -112,12 +99,19 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 
 </div>
 
-<br>
-<img src="./assets.svg/divider.svg" width="100%" />
-<br>
+---
 
-<div align="center"><img src="./assets.svg/section-connect.svg" /></div>
-<br>
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AyushSingh29-03&theme=onedark&column=7&margin-w=12" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -125,9 +119,5 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 <a href="mailto:ayush.official09@gmail.com"><img src="https://img.shields.io/badge/Email-E2A9D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
-<br>
-
-<img src="./assets.svg/footer.svg" width="100%" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
