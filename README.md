@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets.svg/banner.svg" width="100%" />
+<img src="./assets.svg/banner.svg?v=2" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=8B7FD6&center=true&vCenter=true&width=560&lines=Building+AI+%26+Software+Projects;Exploring+Generative+AI;Always+Learning+Something+New" />
 
@@ -75,7 +75,7 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 ## Training
 
 <div align="center">
-<img src="./assets.svg/training-panel.svg" width="100%" />
+<img src="./assets.svg/training-panel.svg?v=2" width="100%" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 ## Skills
 
 <div align="center">
-<img src="./assets.svg/skills-panel.svg" width="100%" />
+<img src="./assets.svg/skills-panel.svg?v=2" width="100%" />
 </div>
 
 ---
@@ -96,16 +96,6 @@ Regex engine built from scratch — concatenation, alternation, and Kleene star 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushSingh29-03&theme=default&hide_border=true&bg_color=00000000&title_color=8B7FD6&text_color=5b5b82&layout=compact" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=AyushSingh29-03&theme=default&hide_border=true&background=00000000&ring=8B7FD6&fire=E2A9D8&currStreakLabel=8B7FD6&sideLabels=5b5b82&currStreakNum=3b3b58&sideNums=3b3b58" />
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyushSingh29-03&theme=onedark&column=7&margin-w=12" alt="GitHub Trophies" />
 
 </div>
 
