@@ -1,113 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="Ayush Singh - Curiosity, compiled." width="100%"/>
+</p>
 
-<img src="./assets.svg/banner.svg?v=2" width="100%" />
+<p align="center">
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-visit-3B82F6?style=for-the-badge&labelColor=0E2A1A" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ayush-singh-42140a39a"><img src="https://img.shields.io/badge/LinkedIn-connect-F4F1E8?style=for-the-badge&labelColor=0E2A1A&color=F4F1E8&logoColor=0E2A1A" alt="LinkedIn"/></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=8B7FD6&center=true&vCenter=true&width=560&lines=Building+AI+%26+Software+Projects;Exploring+Generative+AI;Always+Learning+Something+New" />
-
-</div>
-
-<br>
-
-## Profile
-
-I'm **Ayush Singh** — a B.Tech Computer Engineering (AI) student focused on **Software Development, AI, and Data Analytics**.
-
-Currently building projects, exploring emerging technologies, and continuously improving my development skills.
+I'm a 2nd-year B.Tech Computer Engineering (AI) student at Ganpat University.
+I like building things that solve a real problem, and I learn best by shipping them.
 
 ---
 
-## Projects
+### Currently building
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **FindIt**: a Lost & Found platform for my campus, built to replace messy WhatsApp groups (HTML/CSS/JS front end, PHP + MySQL backend in progress)
+- **AlertX**: a Telegram bot that scrapes internship sources, filters them by my interests and alerts me so I stop missing opportunities (Python)
+- Getting stronger at DSA in C and Java
 
-### ✋ Rock-Paper-Scissors vs AI
-Real-time hand-gesture RPS — no keyboard, no mouse. Detects your hand sign live from webcam and decides the winner instantly.
+### Projects
 
-`Python` `OpenCV` `MediaPipe`
+| Project | What it does | Stack |
+|---|---|---|
+| [**regex-engine-java**](https://github.com/AyushSingh29-03/regex-engine-java) | Regex engine built from scratch: concatenation, alternation and Kleene star, with no built-in regex library | Java |
+| [**ayush-portfolio**](https://github.com/AyushSingh29-03/ayush-portfolio) | My portfolio with cinematic smooth-scroll animations | Next.js, TypeScript, GSAP |
+| [**FindIt**](https://github.com/AyushSingh29-03/Findit-website-project-) | Campus Lost & Found platform | HTML, CSS, JS, PHP |
+| **CycloneShield** | Cyclone impact and infrastructure vulnerability forecaster (Google Code for Community hackathon, team of 4) | none yet |
 
-</td>
-<td width="50%" valign="top">
+### Tech I use
 
-### 🔎 FindIt — Lost & Found
-Campus Lost & Found platform for Ganpat University students to report and search for lost items.
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Conversation Memory Manager
-CLI tool exploring LLM memory strategies — full history, sliding window, summarization — with token-cost tracking. SQLite-backed, web UI planned.
-
-`Python` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Minimax Game AI
-Browser-based game with an unbeatable AI opponent powered by the Minimax algorithm — visualizes decision-tree search, no GUI library.
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔤 Mini Regex Engine
-Regex engine built from scratch — concatenation, alternation, and Kleene star — no built-in regex libraries.
-
-`Java`
-
-[**View Repo →**](https://github.com/AyushSingh29-03/regex-engine-java)
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/HTML-0E2A1A?style=flat-square&logo=html5&logoColor=F4F1E8" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-0E2A1A?style=flat-square&logo=css3&logoColor=F4F1E8" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-0E2A1A?style=flat-square&logo=javascript&logoColor=F4F1E8" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-0E2A1A?style=flat-square&logo=typescript&logoColor=F4F1E8" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-0E2A1A?style=flat-square&logo=nextdotjs&logoColor=F4F1E8" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Java-0E2A1A?style=flat-square&logo=openjdk&logoColor=F4F1E8" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-0E2A1A?style=flat-square&logo=c&logoColor=F4F1E8" alt="C"/>
+  <img src="https://img.shields.io/badge/PHP-0E2A1A?style=flat-square&logo=php&logoColor=F4F1E8" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-0E2A1A?style=flat-square&logo=mysql&logoColor=F4F1E8" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-0E2A1A?style=flat-square&logo=python&logoColor=F4F1E8" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-0E2A1A?style=flat-square&logo=git&logoColor=F4F1E8" alt="Git"/>
+</p>
 
 ---
 
-## Training
-
-<div align="center">
-<img src="./assets.svg/training-panel.svg?v=2" width="100%" />
-</div>
-
----
-
-## Skills
-
-<div align="center">
-<img src="./assets.svg/skills-panel.svg?v=2" width="100%" />
-</div>
-
----
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=AyushSingh29-03&theme=default&hide_border=true&bg_color=00000000&title_color=8B7FD6&icon_color=7f9fe0&text_color=5b5b82" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushSingh29-03&theme=default&hide_border=true&bg_color=00000000&title_color=8B7FD6&text_color=5b5b82&layout=compact" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=AyushSingh29-03&theme=default&hide_border=true&background=00000000&ring=8B7FD6&fire=E2A9D8&currStreakLabel=8B7FD6&sideLabels=5b5b82&currStreakNum=3b3b58&sideNums=3b3b58" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ayush-singh-42140a39a"><img src="https://img.shields.io/badge/LinkedIn-8B7FD6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayush.official09@gmail.com"><img src="https://img.shields.io/badge/Email-E2A9D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  Open to internships, collaborations and freelance web projects.
+</p>
